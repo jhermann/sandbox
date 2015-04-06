@@ -1,2 +1,3 @@
 # sandbox
-:no_entry: This is not the repository you are looking for!
+
+A repository that can be victimized in GitHub API tests.
